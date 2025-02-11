@@ -1,4 +1,4 @@
 this is index page.
 nele.
 sve iz foldera je prekopirano
-gitovano1
+gitovano
