@@ -1,4 +1,3 @@
 this is index page.
 nele.
-sve iz foldera je prekopirano
-gitovano_12
+sve iz foldera je prekopirano. Pipeline radi.
